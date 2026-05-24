@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StickmanWar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5d875635687c1ed945892219b7c45bf99950518")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a538c01fbc8e9ea6e5cf5a68e0e1e46f448fb41c")]
 [assembly: System.Reflection.AssemblyProductAttribute("StickmanWar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StickmanWar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
