@@ -1,0 +1,15 @@
+/Users/drewz1312/Documents/GitHub/Stickman/bin/Debug/net10.0/StickmanWar
+/Users/drewz1312/Documents/GitHub/Stickman/bin/Debug/net10.0/StickmanWar.deps.json
+/Users/drewz1312/Documents/GitHub/Stickman/bin/Debug/net10.0/StickmanWar.runtimeconfig.json
+/Users/drewz1312/Documents/GitHub/Stickman/bin/Debug/net10.0/StickmanWar.dll
+/Users/drewz1312/Documents/GitHub/Stickman/bin/Debug/net10.0/StickmanWar.pdb
+/Users/drewz1312/Documents/GitHub/Stickman/obj/Debug/net10.0/StickmanWar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/drewz1312/Documents/GitHub/Stickman/obj/Debug/net10.0/StickmanWar.AssemblyInfoInputs.cache
+/Users/drewz1312/Documents/GitHub/Stickman/obj/Debug/net10.0/StickmanWar.AssemblyInfo.cs
+/Users/drewz1312/Documents/GitHub/Stickman/obj/Debug/net10.0/StickmanWar.csproj.CoreCompileInputs.cache
+/Users/drewz1312/Documents/GitHub/Stickman/obj/Debug/net10.0/StickmanWar.sourcelink.json
+/Users/drewz1312/Documents/GitHub/Stickman/obj/Debug/net10.0/StickmanWar.dll
+/Users/drewz1312/Documents/GitHub/Stickman/obj/Debug/net10.0/refint/StickmanWar.dll
+/Users/drewz1312/Documents/GitHub/Stickman/obj/Debug/net10.0/StickmanWar.pdb
+/Users/drewz1312/Documents/GitHub/Stickman/obj/Debug/net10.0/StickmanWar.genruntimeconfig.cache
+/Users/drewz1312/Documents/GitHub/Stickman/obj/Debug/net10.0/ref/StickmanWar.dll
